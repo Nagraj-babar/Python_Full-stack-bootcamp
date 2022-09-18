@@ -1,0 +1,4 @@
+Write a python script to print Hello Python on the screen directly in the command line.
+
+--> To do that we have to open a command prompt and have to type py,then write a programe to print Hello Python
+    syntax print("Hello Python").

@@ -1,0 +1,6 @@
+Write a python script and store it in a file and execute the file from the command line.
+
+--> First, we creat new python file which is name is Main.py and we write a simple program which is print Hello World in it.File is store in local disk c. 
+    then open command prompt and call Main.py by typing file name make sure that file location is correct.
+    e.g c:\ Main.py
+        Hello World
